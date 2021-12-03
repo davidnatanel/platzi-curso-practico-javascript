@@ -1,0 +1,77 @@
+body
+{
+    background: blanchedalmond;
+    flex-direction: row;
+
+
+}
+
+
+
+#section 
+{
+    background-color: darkgreen;
+    width: 800px;
+    height: 400px;
+   
+    display:block;
+
+
+    
+
+
+}
+
+#InputCuadrado
+{
+
+    
+    
+    color: blue;
+    font-size: large;
+    display: block;
+   border-radius: 20px;
+   border-color: white;
+
+}
+
+
+#boton1
+
+{
+
+
+   
+    background-color:  black;
+    color: white;
+    font-size: large;
+    display: block;
+    
+
+}
+
+#boton1:hover
+
+   {
+    background-color: #AAA;
+    color: #000;
+font-size: large;
+display: block;
+
+
+}
+
+
+#boton2
+{
+    
+   
+    
+    
+    background-color:  black;
+    color: white;
+    font-size: large;
+    display: block;
+    
+
+}
